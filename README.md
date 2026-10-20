@@ -1,6 +1,6 @@
 # Introducing hdbcli SAP HANA Python Client
 ###### Connect to SAP HANA databases using Python
-
+Updated 2026
 ![](https://github.com/yasinnaal/hdbcli/blob/main/doc-img/logo-sap-python.png)
 
 The Python Database API Specification v2.0 (PEP 249) defines a set of methods that provides a consistent database interface independent of the actual database being used. The Python extension module for SAP HANA implements PEP 249.
